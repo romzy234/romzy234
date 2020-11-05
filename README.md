@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Thanks for popping by :gun:
+## Thanks for popping by 💻 
 
 I am Cyril, a jnr software developer still in school. I am a tech enthusiast & an open-source advocate.
 
