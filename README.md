@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am Cyril, a software developer still in school. I am a tech enthusiast & an open-source advocate.
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40romzy234&logo=instagram&logoColor=blue&style=flat-square&url=https%3A%2F%2Finstagram.com%2F%40cyrilOgoh)](https://instagram.com/romzy234)
-[![Twitter URL](https://img.shields.io/twitter/url?label=%40cyrilOgoh&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F%40cyrilOgoh)](https://Twitter.com/@CyrilOgoh)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40cyrilOgoh&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2F%40cyrilOgoh)](https://Twitter.com/@cyisadev)
 
 ## :keyboard: IDE and Set-up
 
